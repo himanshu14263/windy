@@ -98,7 +98,7 @@ class UserInput extends React.Component{
 
 							 <button className="waves-effect waves-light btn" onClick={this.func}>
 							 		<i className="material-icons right">
-							 				send information
+							 				send 
 							 		</i>
 							 		CLICK
 							 </button>                  
