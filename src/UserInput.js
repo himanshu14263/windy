@@ -34,7 +34,7 @@ class UserInput extends React.Component{
       .then(res => res.json())
       .then((res)=>{
 
-      	this.setState{weatherData:{res}};
+      	
       	console.log(
 
       			res,
